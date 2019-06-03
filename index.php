@@ -9,7 +9,7 @@ include('connect.php');
 </head>
 <body>
 <div class="panel panel-primary" style=" max-width: 1100px; margin: auto;">
-<div class="panel-heading"><center><strong>NEW DRIVERS</strong></center></div>
+<div class="panel-heading"><center><strong>NEW DRIVERS FROM RFTC</strong></center></div>
    <div class="panel-body">
     <form class="form-horizontal" method="POST" name="drivers"  onsubmit="return validateform()">
     			<div class="row"  >
